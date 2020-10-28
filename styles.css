@@ -1,0 +1,7 @@
+h1, nav {display: inline}
+nav {margin-left: 350px}
+body {font-family: Roboto; background-color: rgb(196, 200, 201)} 
+.video {border: rgb(78, 108, 241) dashed; padding: 20px; width: 400px; margin-left: 400px; border-radius: 40px} 
+footer {text-align: center}
+.photo {border: darkturquoise; width: 1px; height: 1px; margin-left: 520px}
+#presentation {font-size: 23px; text-decoration-line: underline; font-style: italic}
